@@ -1,0 +1,31 @@
+{
+  "version": "UDCT_v7.14_preregistration_release_candidate_20261110",
+  "status": "PUBLICATION_CANDIDATE_NOT_YET_REGISTERED",
+  "hypothesis": "finite-grid OM DF sign under specified spherical simple-QUMOND model",
+  "p": [
+    1.487,
+    1.513
+  ],
+  "r_a_over_a": [
+    0.44,
+    0.48
+  ],
+  "energy_label_r_over_a": [
+    0.3,
+    0.4,
+    0.5,
+    0.6,
+    0.7
+  ],
+  "n_points": 20,
+  "decision": {
+    "negative": "rigorously justified upper enclosure < 0 at one or more locked grid points, controls pass",
+    "nonnegative_grid": "rigorously justified lower enclosure >= 0 at every locked grid point, controls pass",
+    "inconclusive": "otherwise, including missing validated bounds"
+  },
+  "historical_exposure_warning": "These coordinates are prospective-design choices, but have not been proven absent from the >100 archived exploratory runs. No claim of statistically independent holdout.",
+  "no_results_run": true,
+  "reserved_zenodo_doi": "10.5281/zenodo.24095267",
+  "github_repository": "https://github.com/wspaik5/UDCT_v7.14_Preregistration",
+  "publication_status": "DRAFT - DOI RESERVED, NOT PUBLISHED"
+}

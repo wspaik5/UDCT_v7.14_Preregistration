@@ -1,0 +1,35 @@
+{
+  "sources": [
+    {
+      "filename": "7.14 Exploratory audit 1~6.zip",
+      "sha256": "6980b333823abba340403d6d921b50805291e42b5f8b810ab003bce19ef44614",
+      "bytes": 64474
+    },
+    {
+      "filename": "7.14 Hessian 1~25.zip",
+      "sha256": "24e646cb99f0b0cd0f997e9afba68f2be3d3a01f68ad7b222e3d943cb66924ff",
+      "bytes": 1237181
+    },
+    {
+      "filename": "7.14 Hessian 26~50.zip",
+      "sha256": "14da6463e2dc1b9af6726c448517aa6013709ae2e967a3b5cb8d7ae985292f58",
+      "bytes": 436132
+    },
+    {
+      "filename": "UDCT_v714_p15_FINAL_SECTION_NUMBERS_FIXED.pdf",
+      "sha256": "c447429d6ee8571704690ce097b72220f57d74b4db9bbe85dff99ffe8dc5404b",
+      "bytes": 165308
+    },
+    {
+      "filename": "UDCT_v7.14_Detailed_Paper_Download.pdf",
+      "sha256": "da6add0fa8716647cd80c253a43322b90fda56746ee74ad62da6d78db5730534",
+      "bytes": 250892
+    },
+    {
+      "filename": "UDCT_v714_Integrated_Source_Audit_PHASE1_20261110.zip",
+      "sha256": "5d641d4e9f51d6982511f9c2c023f6d84872e159b3fa80e677a830f643b165c7",
+      "bytes": 23986
+    }
+  ],
+  "caveat": "SHA-256 establishes file identity, not scientific validity"
+}
